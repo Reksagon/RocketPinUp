@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/rocketSplash">
+
+    <fragment
+        android:id="@+id/rocketSplash"
+        android:name="com.winner.ku.bet.app.RocketSplash"
+        android:label="fragment_rocket_splash"
+        tools:layout="@layout/fragment_rocket_splash" >
+        <action
+            android:id="@+id/action_rocketSplash_to_rocketMain"
+            app:destination="@id/rocketMain" />
+    </fragment>
+    <fragment
+        android:id="@+id/rocketMain"
+        android:name="com.winner.ku.bet.app.RocketMain"
+        android:label="fragment_rocket_main"
+        tools:layout="@layout/fragment_rocket_main" >
+        <action
+            android:id="@+id/action_rocketMain_to_rocketProfile"
+            app:destination="@id/rocketProfile" />
+        <action
+            android:id="@+id/action_rocketMain_to_rocketView"
+            app:destination="@id/rocketView" />
+    </fragment>
+    <fragment
+        android:id="@+id/rocketProfile"
+        android:name="com.winner.ku.bet.app.RocketProfile"
+        android:label="fragment_rocket_profile"
+        tools:layout="@layout/fragment_rocket_profile" >
+        <action
+            android:id="@+id/action_rocketProfile_to_rocketMain"
+            app:destination="@id/rocketMain" />
+        <action
+            android:id="@+id/action_rocketProfile_to_rocketView"
+            app:destination="@id/rocketView" />
+    </fragment>
+    <fragment
+        android:id="@+id/rocketView"
+        android:name="com.winner.ku.bet.app.RocketView"
+        android:label="fragment_rocket_view"
+        tools:layout="@layout/fragment_rocket_view" >
+        <action
+            android:id="@+id/action_rocketView_to_rocketMain"
+            app:destination="@id/rocketMain" />
+    </fragment>
+</navigation>

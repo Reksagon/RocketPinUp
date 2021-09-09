@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783451207662",
+    "project_id": "comwinnerkubetapp",
+    "storage_bucket": "comwinnerkubetapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783451207662:android:f2a0aa3bc9eeb5511700ff",
+        "android_client_info": {
+          "package_name": "com.winner.ku.bet.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783451207662-cjka14ige4l4aa0cdh7rdkvkm9eki10r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnbl0Sbkbq5YH-hv4-aisXeRE8crXllx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783451207662-cjka14ige4l4aa0cdh7rdkvkm9eki10r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

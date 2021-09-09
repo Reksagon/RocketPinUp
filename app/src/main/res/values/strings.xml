@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pin-Up</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="game_view_content_description">Game view</string>
+
+    <string name="rocket">cm9ja2V0</string>
+    <string name="rocket_add">cm9ja2V0X2FkZA==</string>
+    <string name="yandex">ZmNlNTRkNzItNWU0My00OTMwLWIwNTEtNjNmNDZjNGRhY2U5</string>
+    <string name="onesignal">MDQwYWNmZTQtMjAzZi00YzA0LTliZmItOGQwZTIwZmU4NWVj</string>
+    <string name="appflyer">V2tOUXc0M2M1b2FzOTRYN2ZTazR2Zg==</string>
+    <string name="tiktok">aHR0cHM6Ly93d3cudGlrdG9rLmNvbS8=</string>
+    <string name="facebook">aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLw==</string>
+    <string name="instagram">aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS8=</string>
+    <string name="linkedin">aHR0cHM6Ly93d3cubGlua2VkaW4uY29tLw==</string>
+    <string name="twitter">aHR0cHM6Ly90d2l0dGVyLmNvbS8=</string>
+    <string name="ok">aHR0cHM6Ly9vay5ydS8=</string>
+    <string name="vk">aHR0cHM6Ly92ay5jb20v</string>
+    <string name="youtube">aHR0cHM6Ly93d3cueW91dHViZS5jb20v</string>
+    <string name="index">ZmlsZTovLy9hbmRyb2lkX2Fzc2V0L2luZGV4Lmh0bWw=</string>
+    <string name="privacy">https://com-winner-ku-bet-ap.flycricket.io/privacy.html</string>
+</resources>

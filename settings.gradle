@@ -1,0 +1,4 @@
+rootProject.name = "RocketPinUp"
+include ':app'
+include ':unityLibrary'
+include ':launcher'
